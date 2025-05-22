@@ -90,7 +90,7 @@ input:not([type="checkbox"]):not([type="radio"]), textarea, select {
   border: 1px solid var(--grey);
 }
 
-.success {
+.error {
   border: 1px solid red;
 }
 
